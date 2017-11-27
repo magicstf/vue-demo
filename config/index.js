@@ -33,7 +33,7 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
         // '/api/**': {
-        //   target: '//salesguide.jd.com', // 你接口的域名
+        //   target: 'https://cnodejs.org/api/v1', // 你接口的域名
         //   secure: false,
         //   changeOrigin: false,
         // }
