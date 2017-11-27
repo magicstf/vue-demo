@@ -1,0 +1,20 @@
+@function px2rem($px){
+    $rem : 37.5px;
+    @return ($px/$rem) + rem;
+}
+
+html,body {
+	margin:0;
+	padding: 0;
+}
+ul,ol {
+	list-style: none;
+	background:red;
+}
+.searchlist-normal {
+	overflow: hidden;
+}
+
+.product-info {
+
+}
