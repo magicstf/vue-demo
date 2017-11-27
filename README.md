@@ -1,6 +1,3 @@
-# vue-demo
-<<<<<<< HEAD
-
 > A Vue.js project
 
 ## Build Setup
@@ -26,6 +23,5 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-vue+vuex+vue-router+axios
->>>>>>> 06396fa44b83a78998260ae10f6ff2e418aa5b46
+
+>##vue+vuex+vue-router+axios
